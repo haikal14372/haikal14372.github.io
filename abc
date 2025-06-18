@@ -1,0 +1,98 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Saza 25 - Jagung Keju Enak!</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fffaf3;
+      color: #333;
+    }
+    header {
+      background: #ff9eb5;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    .slogan {
+      font-style: italic;
+    }
+    .menu {
+      background: #fff;
+      padding: 20px;
+      max-width: 500px;
+      margin: 20px auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .menu h2 {
+      color: #e55959;
+    }
+    .item {
+      display: flex;
+      justify-content: space-between;
+      margin: 10px 0;
+      background: #ffe7ad;
+      padding: 10px;
+      border-radius: 8px;
+    }
+    .contact {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .wa-button {
+      background: #25D366;
+      color: white;
+      padding: 15px 25px;
+      border: none;
+      border-radius: 50px;
+      text-decoration: none;
+      font-size: 1.1em;
+    }
+    .socials {
+      margin-top: 15px;
+    }
+    .socials a {
+      margin: 0 10px;
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Saza 25</h1>
+    <p class="slogan">Harga murah rasa enak</p>
+  </header>  <section class="menu">
+    <h2>Menu</h2>
+    <div class="item">
+      <span>Jagung Cheese Tarik (Besar)</span><span>Rp15.000</span>
+    </div>
+    <div class="item">
+      <span>Jagung Cheese Tarik (Kecil)</span><span>Rp10.000</span>
+    </div>
+    <div class="item">
+      <span>Jasuke (Besar)</span><span>Rp10.000</span>
+    </div>
+    <div class="item">
+      <span>Jasuke (Kecil)</span><span>Rp5.000</span>
+    </div>
+  </section>  <div class="contact">
+    <a class="wa-button" href="https://wa.me/62895394977797" target="_blank">Pesan via WhatsApp</a>
+    <div class="socials">
+      <a href="https://instagram.com/haikalwahhb" target="_blank">Instagram</a>
+      <a href="https://t
